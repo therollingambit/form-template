@@ -2,4 +2,4 @@
 
 A basic form template with css styling
 
-![screenshot]('')
+![screenshot]('demo.png')
