@@ -2,4 +2,4 @@
 
 A basic form template with css styling
 
-![screenshot](/demo.png)
+Live demo: https://therollingambit.github.io/form-template/
